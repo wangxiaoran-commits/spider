@@ -175,9 +175,9 @@ cookie = 'guest_id=v1%3A171965722395363503; night_mode=2; guest_id_marketing=v1%
 authorization = 'Bearer AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs%3D1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA'
 token = 'fe8b1ff3bd7b631e7e879d859310776a0eb9756bf7b88be618db87db3fa6c0aee072107217594aed9e21a425cc9938e0d159a09a87ba6d9b815d58555666b7201d9b0a52c21414d67a0ab08fcccdfe94'
 # 搜索关键字
-keyword = 'election fake news'
+keyword = 'election rigging'
 # 保存多少条数据
-data_num = 100
+data_num = 300
 # 保存文件的名字
 save_file_name = keyword
 

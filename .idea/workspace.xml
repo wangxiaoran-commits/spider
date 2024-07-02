@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06bd158a-e3cd-46a8-bebe-d37a4788a7bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/twitter vote fraud.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnn 选举造假分类可视化.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twitter vote fraud.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/提取关键词 NLP.py" afterDir="false" />
+    <list default="true" id="06bd158a-e3cd-46a8-bebe-d37a4788a7bf" name="Changes" comment="挑战杯">
+      <change afterPath="$PROJECT_DIR$/推特分析 时间序列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter vote fraud.py" beforeDir="false" afterPath="$PROJECT_DIR$/twitter vote fraud.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +41,7 @@
     "Python.cnn 选举造假分类可视化.executor": "Run",
     "Python.cnn.executor": "Run",
     "Python.twitter vote fraud.executor": "Run",
+    "Python.推特分析 时间序列.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
@@ -97,6 +91,15 @@
       <option name="presentableId" value="Default" />
       <updated>1719658165220</updated>
     </task>
+    <task id="LOCAL-00001" summary="挑战杯">
+      <option name="closed" value="true" />
+      <created>1719737628716</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719737628716</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,5 +112,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="挑战杯" />
+    <option name="LAST_COMMIT_MESSAGE" value="挑战杯" />
   </component>
 </project>
